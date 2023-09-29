@@ -1,3 +1,5 @@
+![minhafoto jpg](https://github.com/iorrana/minhabio-gcc259/assets/58440670/9f8e89dd-8599-4b3d-9b48-7e11ae7566a8)
+
 # minhabio-gcc259
 
 ## Um pouco sobre mim
