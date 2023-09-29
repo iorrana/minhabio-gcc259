@@ -1,5 +1,3 @@
-![minhafoto jpg](https://github.com/iorrana/minhabio-gcc259/assets/58440670/9f8e89dd-8599-4b3d-9b48-7e11ae7566a8)
-
 # minhabio-gcc259
 
 ## Um pouco sobre mim
@@ -25,4 +23,4 @@ Curso Ciência da Computação pela Universidade Federal de Lavras (_UFLA_), est
 Caso queira acessar meu linkedin: [www.linkedin.com/in/iorrana-nascimento]
 
 
-
+![minhafoto jpg](https://github.com/iorrana/minhabio-gcc259/assets/58440670/c257840f-8951-4199-ab24-b8929d1adbbc)
